@@ -1,0 +1,25 @@
+{% if page.carrousel %}
+  <p>
+    <div class="slider">
+      {% for image in page.carrousel %}
+        {% if image == '----' %}
+    </div>
+    <div class="slider">
+        {% else %}
+          <div><img src="{{ site.baseurl }}/images/{{ image }}"></div>
+        {% endif %}
+      {% endfor %}
+    </div>
+  </p>
+  <script src="{{ site.baseurl }}/js/slick.min.js"></script>
+  <script>
+    $('.slider').slick({
+          arrows: true,
+          infinite: true,
+          speed: 300,
+          slidesToShow: 1,
+          autoplay: true,
+          // adaptiveHeight: true,
+        });
+  </script>
+{% endif %}

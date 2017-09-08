@@ -1,0 +1,19 @@
+---
+layout: page
+excludeSearch: true
+---
+
+<article class="tags">
+    {% for tag in site.tags %}
+        {% assign t = tag | first %}
+        {% assign posts = tag | last | sort:"categories" %}
+        <div id="{{ t }}">
+            <h2><a href="#{{ t }}">{{ t }}</a></h2>
+            {% for post in posts %}
+                <div class="{{ post.categories }}">
+                    <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+                </div>
+            {% endfor %}
+        </div>
+    {% endfor %}
+</article>

@@ -1,0 +1,15 @@
+<!-- Pagination links -->
+{% if paginator.total_pages > 1 %}
+    <div class="pagination">
+        Older posts:
+        {% for pageNumber in (1..paginator.total_pages) %}
+            {% if pageNumber == paginator.page %}
+                •
+            {% elsif pageNumber == 1 %}
+                <a href="{{ site.baseurl }}/">{{ pageNumber }}</a>
+            {% else %}
+                <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', pageNumber }}">{{ pageNumber }}</a>
+            {% endif %}
+        {% endfor %}
+    </div>
+{% endif %}

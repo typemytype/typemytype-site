@@ -1,0 +1,30 @@
+---
+layout: default
+---
+
+<article class="page {{ page.categories }}">
+    <h1>{{ page.title }}</h1>
+    <div class="entry">
+        {{ content }}
+        {% include carrousel.html %}
+    </div>
+    {% if page.comments == true %}
+        <hr>
+        {% include disqus.html %}
+    {% endif %}
+    <div class="date posted_on">
+        <div>
+            {% for category in page.categories %}
+                <a href="{{ site.baseurl }}/{{ category }}">{{ category }}</a>
+            {% endfor %}
+        </div>
+        {% if page.tags.size > 0 %}
+            <div>
+            &#11092;
+            {% for tag in page.tags %}
+                <a href="{{ site.baseurl }}/tags/#{{ tag }}">{{ tag }}</a>
+            {% endfor %}
+            </div>
+        {% endif %}
+    </div>
+</article>

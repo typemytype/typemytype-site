@@ -1,0 +1,24 @@
+<form id="contact" accept-charset="UTF-8" action="//formspree.io/info@typemytype.com" method="post">
+    <input type="text" name="Name" placeholder="Name" required>
+    <input type="email" name="Email" placeholder="Email" required>
+    <textarea name="message" placeholder="Message" required></textarea>
+    <!-- CONFIG -->
+    <input type="hidden" name="_next" value="//{{site.host}}{{ site.baseurl }}{{ page.url }}" />
+    <input type="hidden" name="_subject" value="TypeMyType Contact!" />
+    <input type="text" name="_gotcha" style="display:none" />
+    <!-- /CONFIG -->
+    <input class="submit" type="submit" value="Send">
+</form>
+
+<script type="text/javascript">
+    function hasHtml5Validation () {
+      return typeof document.createElement('input').checkValidity === 'function';
+    }
+    if (hasHtml5Validation()) {
+      $('.submit').click(function(e){
+        if (!this.form.checkValidity()) {
+          e.preventDefault();
+        }
+      });
+    }
+</script>

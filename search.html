@@ -1,0 +1,36 @@
+---
+layout: page
+excludeSearch: true
+---
+
+{% include search.html %}
+
+<h1><a href="{{ site.baseurl }}/tags">Tags</a></h1>
+
+<hr>
+
+<h1>Archive</h1>
+
+<article>
+    {% for post in site.posts %}
+        {% if post.categories.size == 0 %}
+            <div>
+                <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+            </div>
+        {% endif %}
+    {% endfor %}
+    {% for category in site.categories %}
+        <div class="{{ category | first }}">
+        <h1>
+            <a href="{{ site.baseurl }}/{{ category | first }}">{{ category | first }}</a>
+        </h1>
+        {% for posts in category %}
+            {% for post in posts %}
+                <div>
+                    <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+                </div>
+            {% endfor %}
+        {% endfor %}
+        </div>
+    {% endfor %}
+</article>

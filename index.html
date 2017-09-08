@@ -1,1 +1,89 @@
-Typemytype
+---
+layout: default
+excludeSearch: true
+---
+
+<div id="home">
+    {% if paginator.page == 1 %}
+        {% for post in site.posts %}
+            {% if post.sticky %}
+                <article class="post {{ post.categories }}">
+                    <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+                    <div class="entry">
+                        {{ post.excerpt }}
+                        {% if post.previewImage %}
+                            <img src="{{ site.baseurl }}/images/{{post.previewImage}}">
+                        {% endif %}
+                    </div>
+                </article>
+            {% endif %}
+        {% endfor %}
+
+        {% for page in site.pages %}
+            {% if page.sticky %}
+                <article class="page {{ page.categories }}">
+                    <h1><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h1>
+                    <div class="entry">
+                        {{ page.content }}
+                        {% if page.previewImage %}
+                            <img src="{{ site.baseurl }}/images/{{page.previewImage}}">
+                        {% endif %}
+                    </div>
+                </article>
+            {% endif %}
+        {% endfor %}
+    {% endif %}
+
+    {% for post in paginator.posts %}
+        {% unless post.sticky %}
+        <article class="post {{ post.categories }}">
+            <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+            <div class="entry">
+                {{ post.excerpt }}
+                {% if post.previewImage %}
+                    <img src="{{ site.baseurl }}/images/{{post.previewImage}}">
+                {% endif %}
+            </div>
+        </article>
+        {% endunless %}
+    {% endfor %}
+</div>
+
+<script src="{{ site.baseurl }}/js/font-to-width.js"></script>
+<script src="{{ site.baseurl }}/js/masonry.pkgd.min.js"></script>
+<script src="{{ site.baseurl }}/js/imagesloaded.pkgd.min.js"></script>
+
+<script>
+    $(document).ready(function () {
+        // $("article h1").each(function () {
+        //     t = $(this);
+        //     l = t.text().length;
+        //     if (l > 14) {
+        //         t.css({"font-family": "Bot-Narrow"})
+        //     }
+        // });
+
+        var $grid = $('#home').masonry({
+            itemSelector: 'article',
+            gutter: 10,
+            isResizeBound: true,
+            transitionDuration: 0
+        });
+
+        var ftw = new FontToWidth({
+            elements:'article h1',
+            minLetterSpace: 0,
+            succes: function () {
+                $grid.masonry('layout');
+            }
+        });
+
+        $grid.imagesLoaded().progress( function() {
+            $grid.masonry('layout');
+        });
+
+        $('img').each(function(n) {
+            $(this).wrap('<div class="imageBox"></div>');
+        });
+    })
+</script>
