@@ -37,7 +37,38 @@ Frederik Berlaen works under the name of TypeMyType providing font services, pro
 
   : 
 
+## [Teaching]({{ site.baseurl }}/teaching)
 
+* *[Sint-Lucas][GO]*
+  2008
+  Ghent
+
+  : Module type design in the graphic design course (7&nbsp;weeks)
+
+* *[Sint-Lucas][GO]*
+  2008 - 2009
+  Ghent
+
+  : Module type design in the graphic design course (13&nbsp;weeks)
+
+* *[Luca School of Arts][GO]*
+  started 1 october 2009 - ...
+  Ghent
+
+  : 50% assistent, teaching typedesign.
+
+* *[Ecal][EC]*
+  2009 – 2013
+  Lausanne
+
+  : Interventions at the master Art Direction.
+
+* *[ESAD][ESAD]*
+  2016 - ...
+  Amiens
+
+  : Interventions at the master Typography & Language.
+  
 ## [Lectures]({{ site.baseurl }}/tags/#lecture)
 
 * *[Bold-Italic][BI]*  
@@ -318,38 +349,6 @@ Frederik Berlaen works under the name of TypeMyType providing font services, pro
   Moscow, Russia
 
   : DrawBot and RoboFont scripting workshop
-
-## [Teaching]({{ site.baseurl }}/teaching)
-
-* *[Sint-Lucas][GO]*
-  2008
-  Ghent
-
-  : Module type design in the graphic design course (7&nbsp;weeks)
-
-* *[Sint-Lucas][GO]*
-  2008 - 2009
-  Ghent
-
-  : Module type design in the graphic design course (13&nbsp;weeks)
-
-* *[Luca School of Arts][GO]*
-  started 1 october 2009 - ...
-  Ghent
-
-  : 50% assistent, teaching typedesign.
-
-* *[Ecal][EC]*
-  2009 – 2013
-  Lausanne
-
-  : Interventions at the master Art Direction.
-
-* *[ESAD][ESAD]*
-  2016 - ...
-  Amiens
-
-  : Interventions at the master Typography & Language.
 
 [GO]: http://grafischontwerpgent.be
 [TM]: http://www.typemedia.org
