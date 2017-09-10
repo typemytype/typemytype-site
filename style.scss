@@ -242,9 +242,11 @@ form {
       color: black;
       margin: 0;
       margin-bottom:5px;
-
+      border-radius: 0px;
       width: 100%;
-
+      -moz-appearance:button;
+      -webkit-appearance:button;
+      appearance: none;
       &:focus {
         background-color: #EFEFEF;
         outline:none;
