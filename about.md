@@ -247,7 +247,7 @@ Frederik Berlaen works under the name of TypeMyType providing font services, pro
 
 
 
-## [Workshops]({{ site.baseurl }}/tags/#workshop)
+## [Workshops]({{ site.baseurl }}tags/#workshop)
 
 * *[Ecal][EC]*
   22th october – 26th of October, 2006
