@@ -8,7 +8,6 @@ excludeSearch: true
         {% for post in site.posts %}
             {% if post.sticky %}
                 <article class="post {{ post.categories }}">
-                    <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
                     <div class="entry">
                         {{ post.excerpt }}
                         {% if post.previewImage %}
