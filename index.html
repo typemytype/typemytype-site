@@ -21,7 +21,6 @@ excludeSearch: true
         {% for page in site.pages %}
             {% if page.sticky %}
                 <article class="page {{ page.categories }}">
-                    <h1><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h1>
                     <div class="entry">
                         {{ page.content }}
                         {% if page.previewImage %}
