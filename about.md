@@ -192,6 +192,24 @@ Frederik Berlaen works under the name of TypeMyType providing font services, pro
 
   : RoboFont in the Future...
 
+* *[ERG](https://erg-type.gitlab.io/le-nerf-de-la-lettre/)*
+  2018
+  Brussels, Belgium
+
+  : The practice of Type Design and scripting
+
+* [RoboThon](http://typemedia.org/robothon/)
+  2018
+  The Hague
+
+  : RoboFont #.#
+
+* *[TypoLab](http://www.typotalks.com/labs/2018/)*
+  2018
+  Berlin
+
+  : [RoboFont#.#](https://www.typotalks.com/videos/robofont/)
+
 ## [Exhibitions]({{ site.baseurl }}/tags/#exhibition)
 
 * *[TypeAnsich](http://www.typeansich.be/)*
@@ -349,6 +367,14 @@ Frederik Berlaen works under the name of TypeMyType providing font services, pro
   Moscow, Russia
 
   : DrawBot and RoboFont scripting workshop
+
+* *[ERG](https://erg-type.gitlab.io/le-nerf-de-la-lettre/)*
+  21th- 23th of march
+  Brussels, Belgium
+
+  : Type Whispering
+
+
 
 [GO]: http://grafischontwerpgent.be
 [TM]: http://www.typemedia.org
