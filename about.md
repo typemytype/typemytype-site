@@ -198,7 +198,7 @@ Frederik Berlaen works under the name of TypeMyType providing font services, pro
 
   : The practice of Type Design and scripting
 
-* [RoboThon](http://typemedia.org/robothon/)
+* *[RoboThon](http://typemedia.org/robothon/)*
   2018
   The Hague
 
