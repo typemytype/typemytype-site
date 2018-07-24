@@ -363,13 +363,13 @@ Frederik Berlaen works under the name of TypeMyType providing font services, pro
   : [Whispering Type](http://2017.typographics.com/workshops/)
 
 * *Contrast Type Scripting workshop*
-  28th of July - 5th of August
+  28th of July - 5th of August, 2018
   Moscow, Russia
 
   : DrawBot and RoboFont scripting workshop
 
 * *[ERG](https://erg-type.gitlab.io/le-nerf-de-la-lettre/)*
-  21th- 23th of march
+  21th- 23th of march, 2018
   Brussels, Belgium
 
   : Type Whispering
