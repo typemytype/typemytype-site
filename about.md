@@ -4,7 +4,7 @@ excludeSearch: true
 pageWrapClass: about
 ---
 
-Frederik Berlaen is a typedesigner with a love for programming and scripting. After studying graphical design at [Sint-lucas in Ghent][GO], where he got the passion for pure black & white type, he went to study typedesign at the [Royal Academy of Art (KABK) in The Hague][TM].
+Frederik Berlaen is a typedesigner with a love for programming and scripting. After studying graphic design at [Sint-lucas in Ghent][GO], where he got the passion for pure black & white type, he went to study typedesign at the [Royal Academy of Art (KABK) in The Hague][TM].
 
 He successfully got a Master Degree at the postgraduate course [Type & Media][TM] in 2006. His final project was not a typefamily but an application which studies the broadnip and pointed pen, called Kalliculator. 
 
