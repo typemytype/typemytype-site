@@ -13,7 +13,7 @@ tag:
 RoboFont is released today!
 Enjoy drawing
 
-# [→ RobFont](http://www.robofont.com)
+# [→ RoboFont](http://www.robofont.com)
 
 
 
