@@ -15,11 +15,11 @@ Frederik Berlaen works under the name of TypeMyType providing font services, pro
 {% include contact.html %}
 
 * *TypeMyType*
-    * *Frederik Berlaen*
+    * *Frederik Berlaen*    
         * *Halvemaanstraat 40*
         * *9040 Sint-Amandsberg*
         * *Belgium*
-            * *btw BE0869.818.794*
+            * *btw BE0842.623.360* 
 
 ------
 
