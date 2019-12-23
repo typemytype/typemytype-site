@@ -250,7 +250,7 @@ Frederik Berlaen works under the name of TypeMyType providing font services, pro
   : 
 
 
-* *[Toulouse Letters](https://editions-b42.com/en/produit/toulouse-letters/)
+* *[Toulouse Letters](https://editions-b42.com/en/produit/toulouse-letters/)*
   2018
   interview
 
@@ -387,7 +387,7 @@ Frederik Berlaen works under the name of TypeMyType providing font services, pro
 
   : Type Whispering
 
-* *[HEAR Strassbourg](http://www.hear.fr)
+* *[HEAR Strassbourg](http://www.hear.fr)*
   30th of January - 1st of February
   Strassbourg, France
 
