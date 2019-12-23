@@ -210,6 +210,12 @@ Frederik Berlaen works under the name of TypeMyType providing font services, pro
 
   : [RoboFont#.#](https://www.typotalks.com/videos/robofont/)
 
+* *[ISType](https://istype.com/2019/program/frederik-berlaen/)*
+  2018
+  Istanbul
+
+  : [Let the py touch your points...](https://www.youtube.com/watch?v=bs3R0lbpAss)
+
 ## [Exhibitions]({{ site.baseurl }}/tags/#exhibition)
 
 * *[TypeAnsich](http://www.typeansich.be/)*
@@ -243,9 +249,16 @@ Frederik Berlaen works under the name of TypeMyType providing font services, pro
 
   : 
 
+
+* *[Toulouse Letters](https://editions-b42.com/en/produit/toulouse-letters/)
+  2018
+  interview
+
+  :
+
 ## [Retail fonts]({{ site.baseurl }}/tags/#font)
 
-* [Comb Pro]({{ site.baseurl }}{% post_url typeDesign/2015-12-23-Comb %}) at [OurType](http://ourtype.com/#/try/pro-fonts/comb/)
+* [Comb Pro]({{ site.baseurl }}{% post_url typeDesign/2015-12-23-Comb %}) at [Typotheque](https://www.typotheque.com/fonts/comb)
 
   : 
 
@@ -374,7 +387,11 @@ Frederik Berlaen works under the name of TypeMyType providing font services, pro
 
   : Type Whispering
 
+* *[HEAR Strassbourg](http://www.hear.fr)
+  30th of January - 1st of February
+  Strassbourg, France
 
+  : Type Whispering
 
 [GO]: http://grafischontwerpgent.be
 [TM]: http://www.typemedia.org
