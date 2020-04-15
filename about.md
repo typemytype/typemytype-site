@@ -395,7 +395,7 @@ Frederik Berlaen works under the name of TypeMyType providing font services, pro
 
 [GO]: http://grafischontwerpgent.be
 [TM]: http://www.typemedia.org
-[KC]: http://www.kalliculator.com
+[KC]: http://kalliculator.com
 [BI]: http://www.bolditalic.be
 [GF]: http://www.hipertipo.net/
 [AT]: http://www.atypi.org/

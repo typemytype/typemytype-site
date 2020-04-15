@@ -22,5 +22,5 @@ Version 2 is in progress and will be released as beta soon. [For more info about
 
 {% include embed youtube="UXLWQpjizG0" %}
 
-[KC]: http://www.kalliculator.com/
+[KC]: http://kalliculator.com/
 [TM]: http://www.typemedia.org/
