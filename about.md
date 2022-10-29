@@ -55,7 +55,7 @@ Frederik Berlaen works under the name of TypeMyType providing font services, pro
   started 1 october 2009 - ...
   Ghent
 
-  : 50% assistent, teaching typedesign.
+  : 40% lecturer, teaching typedesign.
 
 * *[Ecal][EC]*
   2009 – 2013
@@ -388,7 +388,7 @@ Frederik Berlaen works under the name of TypeMyType providing font services, pro
   : Type Whispering
 
 * *[HEAR Strassbourg](http://www.hear.fr)*
-  30th of January - 1st of February
+  30th of January - 1st of February, 2019
   Strassbourg, France
 
   : Type Whispering
