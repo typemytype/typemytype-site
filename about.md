@@ -259,7 +259,11 @@ Frederik Berlaen works under the name of TypeMyType providing font services, pro
 
 * [Comb Pro]({{ site.baseurl }}{% post_url typeDesign/2015-12-23-Comb %}) at [Typotheque](https://www.typotheque.com/fonts/comb)
 
-  : 
+  :
+
+* [Filter](https://fontclubbelgica.com/typefaces/filter/) at [Font Club Belgica](https://fontclubbelgica.com/)
+
+  :
 
 ## [Applications]({{ site.baseurl }}/applications)
 
