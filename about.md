@@ -247,8 +247,7 @@ Frederik Berlaen works under the name of TypeMyType providing font services, pro
 * *[Computer Arts](http://www.computerarts.co.uk/) magazine*
   july 2012
 
-  : 
-
+  :
 
 * *[Toulouse Letters](https://editions-b42.com/en/produit/toulouse-letters/)*
   2018
