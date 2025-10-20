@@ -29,13 +29,16 @@ Frederik Berlaen works under the name of TypeMyType providing font services, pro
   2000 - 2004
   [Sint-Lucas][GO], Ghent
 
-  :
+  : ​
 
 * *Postgraduate [Type & Media][TM]*
   2005/2006
   [KABK][TM], The Hague
 
-  :
+  : ​
+
+## [Font Club Belgica](https://fontclubbelgica.com/)
+
 
 ## [Teaching]({{ site.baseurl }}/teaching)
 
@@ -55,7 +58,7 @@ Frederik Berlaen works under the name of TypeMyType providing font services, pro
   started 1 october 2009 - ...
   Ghent
 
-  : 40% lecturer, teaching typedesign.
+  : 50% lecturer, teaching typedesign.
 
 * *[Ecal][EC]*
   2009 – 2013
