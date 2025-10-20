@@ -6,7 +6,7 @@ pageWrapClass: about
 
 Frederik Berlaen is a typedesigner with a love for programming and scripting. After studying graphic design at [Sint-lucas in Ghent][GO], where he got the passion for pure black & white type, he went to study typedesign at the [Royal Academy of Art (KABK) in The Hague][TM].
 
-He successfully got a Master Degree at the postgraduate course [Type & Media][TM] in 2006. His final project was not a typefamily but an application which studies the broadnip and pointed pen, called Kalliculator. 
+He successfully got a Master Degree at the postgraduate course [Type & Media][TM] in 2006. His final project was not a typefamily but an application which studies the broadnip and pointed pen, called Kalliculator.
 
 Frederik Berlaen works under the name of TypeMyType providing font services, programming and development of applications as RoboFont, DrawBot, UFOstretch and more. He teaches typedesign and scripting at Luca School of Arts Ghent, at ECAL in Lausanne from 2009 to 2015 and at Typography & Language post-graduate course in Esad Amiens since 2016.
 
@@ -15,11 +15,11 @@ Frederik Berlaen works under the name of TypeMyType providing font services, pro
 {% include contact.html %}
 
 * *TypeMyType*
-    * *Frederik Berlaen*    
+    * *Frederik Berlaen*
         * *Halvemaanstraat 40*
         * *9040 Sint-Amandsberg*
         * *Belgium*
-            * *btw BE0842.623.360* 
+            * *btw BE0842.623.360*
 
 ------
 
@@ -29,13 +29,13 @@ Frederik Berlaen works under the name of TypeMyType providing font services, pro
   2000 - 2004
   [Sint-Lucas][GO], Ghent
 
-  : 
+  :
 
 * *Postgraduate [Type & Media][TM]*
   2005/2006
   [KABK][TM], The Hague
 
-  : 
+  :
 
 ## [Teaching]({{ site.baseurl }}/teaching)
 
@@ -68,10 +68,10 @@ Frederik Berlaen works under the name of TypeMyType providing font services, pro
   Amiens
 
   : Interventions at the master Typography & Language.
-  
+
 ## [Lectures]({{ site.baseurl }}/tags/#lecture)
 
-* *[Bold-Italic][BI]*  
+* *[Bold-Italic][BI]*
   2004
   Vooruit, Ghent
 
@@ -81,7 +81,7 @@ Frederik Berlaen works under the name of TypeMyType providing font services, pro
   2006
   [KABK][TM], The Hague
 
-  : Short lecture about [KalliCulator][KC] 
+  : Short lecture about [KalliCulator][KC]
   : Short lecture together with [Gustavo Ferreira][GF] about AutoElementar
 
 * *C-Day Type*
@@ -140,7 +140,7 @@ Frederik Berlaen works under the name of TypeMyType providing font services, pro
 
 * *[Automatic Type Design](http://automatic-type-design.anrt-nancy.fr/index_en.php)*
   2014
-  ANRT, Nancy 
+  ANRT, Nancy
 
   : More tools, please! Robofont, Kalliculator, UFO… Development of softwares for typeface design,
 
@@ -150,7 +150,7 @@ Frederik Berlaen works under the name of TypeMyType providing font services, pro
 
   : More Tools, Please!
 
-* *Brakke Grond* 
+* *Brakke Grond*
   2015
   Amsterdam
 
@@ -231,39 +231,40 @@ Frederik Berlaen works under the name of TypeMyType providing font services, pro
   13/01/07
   interview
 
-  : 
+  : ​
 
 * *[IDpure](http://www.idpure.com/)*
   2007, nr12
   interview
 
-  : 
+  : ​
 
 * *[Digital Arts](http://www.digitalartsonline.co.uk/) magazine*
   [Font Constructor](http://www.fontconstructor.com/) + the app in This month’s CD
 
-  : 
+  : ​
 
 * *[Computer Arts](http://www.computerarts.co.uk/) magazine*
   july 2012
 
-  :
+  : ​
 
 * *[Toulouse Letters](https://editions-b42.com/en/produit/toulouse-letters/)*
   2018
   interview
 
-  :
+  : ​
+
 
 ## [Retail fonts]({{ site.baseurl }}/tags/#font)
 
 * [Comb Pro]({{ site.baseurl }}{% post_url typeDesign/2015-12-23-Comb %}) at [Typotheque](https://www.typotheque.com/fonts/comb)
 
-  :
+  : ​
 
 * [Filter](https://fontclubbelgica.com/typefaces/filter/) at [Font Club Belgica](https://fontclubbelgica.com/)
 
-  :
+  : ​
 
 ## [Applications]({{ site.baseurl }}/applications)
 
@@ -326,7 +327,7 @@ Frederik Berlaen works under the name of TypeMyType providing font services, pro
   17th of September, 2014
   Barcelona, Spain
 
-  : What Can I Do With RoboFont 
+  : What Can I Do With RoboFont
 
 * *[KABK][TM]*
   14th of February, 2014
