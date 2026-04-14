@@ -45,7 +45,7 @@ tag:
 
 The workshop started in Drawbot and with a steep learning curve it ended with 1000+ generated UFO‘s, binary fonts, image’s and pdf’s in [RoboFont](http://robofont.com/) and [related extensions](https://github.com/typemytype/RoboFontExtensions).
 
-Students had already some fonts drawn based on _Modèles de Lettres pou peintres en bâtiment: fantaisie et prespective, dessinés et composés_ by Etienne-Anatole Ducompex.
+Students had already some fonts drawn based on _Modèles de Lettres pour peintres en bâtiment: fantaisie et prespective, dessinés et composés_ by Etienne-Anatole Ducompex.
 
 With lots of shadows and bright colors in mind, the workshop was built around converting and applying shadows on existing shapes. However, some built their own parametric font system based on their chosen revival from Ducompex.
 
